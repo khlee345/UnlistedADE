@@ -63,4 +63,4 @@ def xml_to_brat(fdir,fname):
 
 
 if __name__ == '__main__':
-	xml_to_brat('./TAC_Drug_Label/Train','train.txt')
+	xml_to_brat('./Train','train.txt')
